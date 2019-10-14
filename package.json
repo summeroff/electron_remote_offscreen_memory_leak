@@ -1,22 +1,19 @@
 {
-  "name": "electron-quick-start",
+  "name": "electron_remote_offscreen_memory_leak",
   "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "description": "A minimal Electron application to show memory leak",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
-  "repository": "https://github.com/electron/electron-quick-start",
+  "repository": "https://github.com/summeroff/electron_remote_offscreen_memory_leak",
   "keywords": [
     "Electron",
-    "quick",
-    "start",
-    "tutorial",
     "demo"
   ],
   "author": "GitHub",
   "license": "CC0-1.0",
   "devDependencies": {
-    "electron": "^6.0.12"
+    "electron": "6.0.120"
   }
 }
